@@ -1,9 +1,16 @@
+"use client";
 import React from "react";
 import { FaCheckCircle } from "react-icons/fa"; // Using a check icon
+import {motion} from "framer-motion";
 
 const Highlights = () => {
   return (
-    <section className="py-20 bg-brand-charcoal border-t border-b border-gray-700/50">
+    <motion.section className="py-20 bg-brand-charcoal border-t border-b border-gray-700/50"
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5, delay: 0.2 }}
+      viewport={{ once: true }}
+    >
       <div className="max-w-6xl mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
           {/* Highlight Item 1 */}
@@ -40,7 +47,7 @@ const Highlights = () => {
           </div>
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 };
 

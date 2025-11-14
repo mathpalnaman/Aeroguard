@@ -1,12 +1,19 @@
+"use client";
 import React from "react";
 import CapabilityCard from "./CapabilityCard";
+import {motion} from "framer-motion";
 
 // Importing some futuristic icons from react-icons library
 import { TbRadar2, TbShieldCheck, TbCpu } from "react-icons/tb";
 
 const About = () => {
   return (
-    <section className="py-20 px-4 bg-brand-charcoal text-white">
+    <motion.section className="py-20 px-4 bg-brand-charcoal text-white"
+      initial={{ opacity: 0, y: 20 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5, delay: 0.1 }}
+      viewport={{ once: true }}
+    >
       <div className="max-w-6xl mx-auto">
         {/* ABOUT SECTION */}
         <div className="text-center max-w-3xl mx-auto mb-16">
@@ -40,7 +47,7 @@ const About = () => {
           />
         </div>
       </div>
-    </section>
+    </motion.section>
   );
 };
 
