@@ -2,7 +2,7 @@
 
 This is a landing page built for the VyomGarud web developer internship assessment. The project is a modern, responsive landing page for a UAV / drone systems company.
 
-### [Live Demo Link (Click Here)](httpsVercellink)
+### [Live Demo Link (Click Here)](vyomgarud-landing-one.vercel.app)
 
 ---
 
