@@ -9,10 +9,13 @@ This is a landing page built for the VyomGarud web developer internship assessme
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Screenshot](Deskstop-view1.png)(Deskstop-view2.png)
+![Desktop Screenshot 1](Deskstop-view1.png)
+![Desktop Screenshot 2](Deskstop-view2.png)
 
 ### Mobile View
-![Mobile Screenshot](Mobile-view1.png)(Mobile-view2.png)(Mobile-view3.png)
+![Mobile Screenshot 1](Mobile-view1.png)
+![Mobile Screenshot 2](Mobile-view2.png)
+![Mobile Screenshot 3](Mobile-view3.png)
 
 ---
 
