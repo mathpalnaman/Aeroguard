@@ -1,23 +1,7 @@
-# VyomGarud - Web Developer Intern Assessment
+# AeroGuard - Military Drone Systems Landing Page
 
-This is a landing page built for the VyomGarud web developer internship assessment. The project is a modern, responsive landing page for a UAV / drone systems company.
-
+A modern, high-performance landing page concept designed for a military-grade drone manufacturer.
 ### [Live Demo Link (Click Here)](vyomgarud-landing-one.vercel.app)
-
----
-
-## 📸 Screenshots
-
-### Desktop View
-![Desktop Screenshot 1](Deskstop-view1.png)
-![Desktop Screenshot 2](Deskstop-view2.png)
-
-### Mobile View
-![Mobile Screenshot 1](Mobile-view1.png)
-![Mobile Screenshot 2](Mobile-view2.png)
-![Mobile Screenshot 3](Mobile-view3.png)
-
----
 
 ## 🚀 Features
 
@@ -42,11 +26,11 @@ This is a landing page built for the VyomGarud web developer internship assessme
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/vyomgarud-landing.git](https://github.com/YOUR_USERNAME/vyomgarud-landing.git)
+    git clone [https://github.com/YOUR_USERNAME/Aeroguard-landing.git](https://github.com/YOUR_USERNAME/Aeroguard.git)
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd vyomgarud-landing
+    cd Aeroguard
     ```
 3.  Install the dependencies:
     ```bash
