@@ -9,7 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "VyomGarud - Precision UAV Systems",
+  title: "AeroGuard - Precision UAV Systems",
   description: "Military-grade drone systems for advanced autonomy.", // Set the description
 };
 
