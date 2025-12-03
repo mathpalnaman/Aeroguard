@@ -21,7 +21,7 @@ const About = () => {
             Forged for the Modern Battlefield
           </h2>
           <p className="text-lg text-gray-400 leading-relaxed">
-            VyomGarud builds autonomous aerial systems that deliver decisive
+            AeroGuard builds autonomous aerial systems that deliver decisive
             advantages. Our mission is to equip defense and security forces with
             unmatched reliability, precision, and advanced AI-driven
             intelligence.

@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="relative z-10 px-4 max-w-4xl mx-auto mt-[-50px]">
         {/* Brand Name */}
         <h2 className="text-brand-orange tracking-[0.2em] text-sm md:text-base font-bold uppercase mb-4">
-          VyomGarud Systems
+          AeroGuard Systems
         </h2>
 
         {/* Main Headline */}

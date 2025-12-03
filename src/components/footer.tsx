@@ -8,16 +8,16 @@ const Footer = () => {
         {/* Left Side: Copyright */}
         <div className="text-center md:text-left mb-4 md:mb-0">
           <p className="text-sm">
-            &copy; {new Date().getFullYear()} VyomGarud Systems. All rights
+            &copy; {new Date().getFullYear()} AeroGuard Systems. All rights
             reserved.
           </p>
           <p className="text-sm">
             Contact:{" "}
             <a
-              href="mailto:contact@vyomgarud.com"
+              href="mailto:contact@AeroGuard.com"
               className="text-brand-orange hover:underline"
             >
-              contact@vyomgarud.com
+              contact@AeroGuard.com
             </a>
           </p>
         </div>
